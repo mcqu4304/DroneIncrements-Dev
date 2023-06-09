@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DroneIncrements-Dev/static/css/main.0a7485ed.css",
-    "main.js": "/DroneIncrements-Dev/static/js/main.0214382a.js",
-    "static/js/787.131fc6c8.chunk.js": "/DroneIncrements-Dev/static/js/787.131fc6c8.chunk.js",
-    "static/media/droneIcon.svg": "/DroneIncrements-Dev/static/media/droneIcon.4e94df9bffeacd84f2e4495f9233b87f.svg",
-    "index.html": "/DroneIncrements-Dev/index.html",
-    "main.0a7485ed.css.map": "/DroneIncrements-Dev/static/css/main.0a7485ed.css.map",
-    "main.0214382a.js.map": "/DroneIncrements-Dev/static/js/main.0214382a.js.map",
-    "787.131fc6c8.chunk.js.map": "/DroneIncrements-Dev/static/js/787.131fc6c8.chunk.js.map"
+    "main.css": "/dev-drone_increments-app/static/css/main.0a7485ed.css",
+    "main.js": "/dev-drone_increments-app/static/js/main.a93bd280.js",
+    "static/js/787.131fc6c8.chunk.js": "/dev-drone_increments-app/static/js/787.131fc6c8.chunk.js",
+    "static/media/droneIcon.svg": "/dev-drone_increments-app/static/media/droneIcon.4e94df9bffeacd84f2e4495f9233b87f.svg",
+    "index.html": "/dev-drone_increments-app/index.html",
+    "main.0a7485ed.css.map": "/dev-drone_increments-app/static/css/main.0a7485ed.css.map",
+    "main.a93bd280.js.map": "/dev-drone_increments-app/static/js/main.a93bd280.js.map",
+    "787.131fc6c8.chunk.js.map": "/dev-drone_increments-app/static/js/787.131fc6c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a7485ed.css",
-    "static/js/main.0214382a.js"
+    "static/js/main.a93bd280.js"
   ]
 }
